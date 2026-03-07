@@ -76,13 +76,13 @@ I enjoy:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejas-singh-0212&show_icons=true&theme=radical" width = 48%/></td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-singh-0212&theme=radical" width = 48%/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manthan-gupta-21906&show_icons=true&theme=radical" width = 48%/></td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manthan-gupta-21906&theme=radical" width = 48%/>
   </tr>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-singh-0212&theme=react-dark&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan-gupta-21906&theme=react-dark&area=true&hide_border=true" width="98%"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ I enjoy:
   <a href="https://www.linkedin.com/in/manthan-gupta-8bb607377/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-   <a href="mailto:tejassingh74823@gmail.com">
+   <a href="mailto:mgupta21906@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
