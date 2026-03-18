@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?usernameManthan-gupta-21906&label=Profile+Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Manthan-gupta-21906&label=Profile+Views&color=blue&style=for-the-badge"/>
 </p>
 
 <hr/>
