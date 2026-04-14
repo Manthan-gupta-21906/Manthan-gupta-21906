@@ -77,6 +77,13 @@ I enjoy:
 - **Key Features:** Developed custom CRUD logic for skill management, integrated a persistent database, and handled secure user sessions.
 - **Challenge Overcome:** Transitioned from basic script logic to a multi-tier architecture, ensuring seamless communication between the frontend and backend.
 
+### 📊 [Student Marks Analyzer](https://github.com/Manthan-gupta-21906/Python-Programming/tree/main/mini-projects/Student%20marks%20analyzer)
+- **Multi-student input** : Collects names and subject marks for any number of students in a single session
+- **Variable subject support** : Each student can have a different number of subjects — handled gracefully
+- **NumPy-powered analytics** : Computes total, average, highest, and lowest marks per student using vectorized operations
+- **Auto grade assignment** : Assigns grades A / B / C / Fail based on average score automatically
+- **Formatted report** : Prints a clean, labeled report for every student with a clear separator
+
 ---
 
 ## 📊 GitHub Activity
