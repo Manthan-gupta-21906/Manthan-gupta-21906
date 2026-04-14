@@ -56,6 +56,15 @@ I enjoy:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
+### 🤖 AI / ML / CV
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00ADEF?style=flat-square"/>
+</p>
+
+
 ### 🌐 Dev & Tools
 <p>
   <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> -->
@@ -84,6 +93,19 @@ I enjoy:
 - **Auto grade assignment** : Assigns grades A / B / C / Fail based on average score automatically
 - **Formatted report** : Prints a clean, labeled report for every student with a clear separator
 
+### 🧮 [Calculator](https://github.com/Manthan-gupta-21906/Python-Programming/tree/main/mini-projects/Calculator)
+- **6 operations** : Supports addition, subtraction, multiplication, division, modulo, and power
+- **Input validation** : Rejects non-numeric input with a clean error and re-prompts automatically
+- **Zero division guard** : Catches divide-by-zero and modulo-by-zero with descriptive error messages
+- **Session history** : Tracks all calculations in the session — view with `h`, clear with `c`
+- **Smart formatting** : Displays whole numbers without decimals, floats rounded to 10 places
+- **Interactive menu** : ASCII menu UI with single-key commands for smooth terminal experience
+
+### 📄 [PDF Merger](https://github.com/Manthan-gupta-21906/Python-Programming/tree/main/mini-projects/PdfMerger)
+- **Multi-file merging** : Combines any number of PDF files into a single output file in one run
+- **Sequential ordering** : Merges PDFs in the exact order the user specifies
+- **PyPDF2-powered** : Uses PdfMerger for reliable, clean PDF concatenation
+- **Fixed output** : Saves the result as `merged-pdf.pdf` in the working directory automatically
 ---
 
 ## 📊 GitHub Activity
