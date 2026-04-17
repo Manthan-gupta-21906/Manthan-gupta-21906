@@ -56,7 +56,7 @@ I enjoy:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML / CV
+### 🤖 AI / ML / CV / DS
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
