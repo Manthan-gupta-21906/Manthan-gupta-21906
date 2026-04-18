@@ -86,14 +86,14 @@ I enjoy:
 - **Key Features:** Developed custom CRUD logic for skill management, integrated a persistent database, and handled secure user sessions.
 - **Challenge Overcome:** Transitioned from basic script logic to a multi-tier architecture, ensuring seamless communication between the frontend and backend.
 
-### 📊 [Student Marks Analyzer](https://github.com/Manthan-gupta-21906/Python-Programming/tree/main/mini-projects/Student%20marks%20analyzer)
+### 📊 Student Marks Analyzer
 - **Multi-student input** : Collects names and subject marks for any number of students in a single session
 - **Variable subject support** : Each student can have a different number of subjects — handled gracefully
 - **NumPy-powered analytics** : Computes total, average, highest, and lowest marks per student using vectorized operations
 - **Auto grade assignment** : Assigns grades A / B / C / Fail based on average score automatically
 - **Formatted report** : Prints a clean, labeled report for every student with a clear separator
 
-### 🧮 [Calculator](https://github.com/Manthan-gupta-21906/Python-Programming/tree/main/mini-projects/Calculator)
+### 🧮 Calculator
 - **6 operations** : Supports addition, subtraction, multiplication, division, modulo, and power
 - **Input validation** : Rejects non-numeric input with a clean error and re-prompts automatically
 - **Zero division guard** : Catches divide-by-zero and modulo-by-zero with descriptive error messages
@@ -101,7 +101,7 @@ I enjoy:
 - **Smart formatting** : Displays whole numbers without decimals, floats rounded to 10 places
 - **Interactive menu** : ASCII menu UI with single-key commands for smooth terminal experience
 
-### 📄 [PDF Merger](https://github.com/Manthan-gupta-21906/Python-Programming/tree/main/mini-projects/PdfMerger)
+### 📄 PDF Merger
 - **Multi-file merging** : Combines any number of PDF files into a single output file in one run
 - **Sequential ordering** : Merges PDFs in the exact order the user specifies
 - **PyPDF2-powered** : Uses PdfMerger for reliable, clean PDF concatenation
