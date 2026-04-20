@@ -86,6 +86,16 @@ I enjoy:
 - **Key Features:** Developed custom CRUD logic for skill management, integrated a persistent database, and handled secure user sessions.
 - **Challenge Overcome:** Transitioned from basic script logic to a multi-tier architecture, ensuring seamless communication between the frontend and backend.
 
+### 🚢 Titanic Survival Analysis
+
+- **Dataset** : 891 passengers, 12 features from the real Titanic dataset
+- **Goal** : Identify key factors that influenced survival on the Titanic
+- **Data Cleaning** : Handled missing values in Age, Cabin, and Embarked columns
+- **Analysis** : Explored survival by Gender, Class, Age Group, and combined factors
+- **Key Finding** : Gender and Class were the strongest survival factors — 1st class females had ~97% survival vs ~13% for 3rd class males
+- **Visualizations** : 5 bar charts covering survival count, gender, class, age group, and combined analysis
+- **Tools Used** : `pandas` `matplotlib`
+
 ### 📊 Student Marks Analyzer
 - **Multi-student input** : Collects names and subject marks for any number of students in a single session
 - **Variable subject support** : Each student can have a different number of subjects — handled gracefully
