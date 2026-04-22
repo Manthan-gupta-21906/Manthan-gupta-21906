@@ -86,6 +86,26 @@ I enjoy:
 - **Key Features:** Developed custom CRUD logic for skill management, integrated a persistent database, and handled secure user sessions.
 - **Challenge Overcome:** Transitioned from basic script logic to a multi-tier architecture, ensuring seamless communication between the frontend and backend.
 
+---
+
+### 🏄 Subway Surfer — Gesture Control
+- **Input** : Webcam — real-time hand landmark detection via MediaPipe
+- **Goal** : Control Subway Surfers using hand swipe gestures — no keyboard needed
+- **Detection** : Velocity-based swipe on index fingertip position
+- **Key Feature** : Threaded camera + exponential smoothing for jitter-free control
+- **Gestures** : Swipe Right → Move | Swipe Left → Move | Swipe Up → Jump | Swipe Down → Duck
+- **Tools Used** : `opencv-python` `mediapipe` `pynput` `threading`
+
+---
+
+### 🚗 Hill Climb Racing — Gesture Control
+- **Input** : Webcam — live finger count + wrist height detection via MediaPipe
+- **Goal** : Control Hill Climb Racing using open/closed hand gestures — no keyboard needed
+- **Detection** : Finger count by comparing fingertip vs knuckle y-position each frame
+- **Key Feature** : Wrist height speed zones — raise hand above 40% frame height for full throttle
+- **Gestures** : 4+ fingers open → Accelerate | 1 or 0 fingers → Brake / Reverse
+- **Tools Used** : `opencv-python` `mediapipe` `pyautogui` `collections.deque`
+
 ### 🚢 Titanic Survival Analysis
 
 - **Dataset** : 891 passengers, 12 features from the real Titanic dataset
