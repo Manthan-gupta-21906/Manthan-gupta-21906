@@ -122,20 +122,7 @@ I enjoy:
 - **NumPy-powered analytics** : Computes total, average, highest, and lowest marks per student using vectorized operations
 - **Auto grade assignment** : Assigns grades A / B / C / Fail based on average score automatically
 - **Formatted report** : Prints a clean, labeled report for every student with a clear separator
-
-### 🧮 Calculator
-- **6 operations** : Supports addition, subtraction, multiplication, division, modulo, and power
-- **Input validation** : Rejects non-numeric input with a clean error and re-prompts automatically
-- **Zero division guard** : Catches divide-by-zero and modulo-by-zero with descriptive error messages
-- **Session history** : Tracks all calculations in the session — view with `h`, clear with `c`
-- **Smart formatting** : Displays whole numbers without decimals, floats rounded to 10 places
-- **Interactive menu** : ASCII menu UI with single-key commands for smooth terminal experience
-
-### 📄 PDF Merger
-- **Multi-file merging** : Combines any number of PDF files into a single output file in one run
-- **Sequential ordering** : Merges PDFs in the exact order the user specifies
-- **PyPDF2-powered** : Uses PdfMerger for reliable, clean PDF concatenation
-- **Fixed output** : Saves the result as `merged-pdf.pdf` in the working directory automatically
+  
 ---
 
 ## 📊 GitHub Activity
