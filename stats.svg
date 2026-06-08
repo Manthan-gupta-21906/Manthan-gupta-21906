@@ -1,0 +1,93 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style><![CDATA[
+      .label{font-family:'Courier New',monospace;font-size:12px;fill:#8B949E}
+      .val{font-family:'Courier New',monospace;font-size:13px;fill:#C9D1D9;font-weight:bold}
+      .title{font-family:'Courier New',monospace;font-size:14px;fill:#00B4D8;font-weight:bold}
+      .icon{fill:#7B2FBE}
+      .bar-bg{fill:#21262D;rx:3}
+      .bar-py{fill:#3776AB}
+      .bar-jn{fill:#F37626}
+      .bar-c{fill:#555555}
+      .bar-ts{fill:#3178C6}
+      .bar-java{fill:#E76F00}
+      .bar-other{fill:#444}
+      .row{animation:fadein 0.8s ease both}
+      @keyframes fadein{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+      .r1{animation-delay:0.05s}.r2{animation-delay:0.15s}.r3{animation-delay:0.25s}
+      .r4{animation-delay:0.35s}.r5{animation-delay:0.45s}.r6{animation-delay:0.55s}
+    ]]></style>
+  </defs>
+
+  <rect width="495" height="195" rx="8" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="25" y="32" class="title">Manthan's GitHub Stats</text>
+  <text x="25" y="48" font-family="'Courier New',monospace" font-size="10" fill="#484F58">
+    Based on public repositories
+  </text>
+
+  <!-- Divider -->
+  <line x1="25" y1="58" x2="470" y2="58" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Stats grid: left column -->
+  <!-- Total commits -->
+  <g class="row r1">
+    <text x="25" y="80" class="label">Total Commits (2025)</text>
+    <text x="240" y="80" class="val">126</text>
+  </g>
+  <g class="row r2">
+    <text x="25" y="102" class="label">Public Repos</text>
+    <text x="240" y="102" class="val">7</text>
+  </g>
+  <g class="row r3">
+    <text x="25" y="124" class="label">Longest Streak</text>
+    <text x="240" y="124" class="val">7 days</text>
+  </g>
+  <g class="row r4">
+    <text x="25" y="146" class="label">Active Since</text>
+    <text x="240" y="146" class="val">Oct 2025</text>
+  </g>
+  <g class="row r5">
+    <text x="25" y="168" class="label">Primary Focus</text>
+    <text x="240" y="168" class="val">AI / CV / Data Science</text>
+  </g>
+
+  <!-- Right column: Language bars -->
+  <text x="300" y="75" font-family="'Courier New',monospace" font-size="11" fill="#00B4D8">Top Languages</text>
+
+  <!-- Python -->
+  <text x="300" y="94" class="label">Python</text>
+  <rect x="370" y="83" width="90" height="8" rx="3" fill="#21262D"/>
+  <rect x="370" y="83" width="72" height="8" rx="3" fill="#3776AB"/>
+  <text x="465" y="93" font-family="'Courier New',monospace" font-size="10" fill="#C9D1D9">80%</text>
+
+  <!-- Jupyter -->
+  <text x="300" y="112" class="label">Jupyter</text>
+  <rect x="370" y="101" width="90" height="8" rx="3" fill="#21262D"/>
+  <rect x="370" y="101" width="54" height="8" rx="3" fill="#F37626"/>
+  <text x="465" y="111" font-family="'Courier New',monospace" font-size="10" fill="#C9D1D9">60%</text>
+
+  <!-- TypeScript -->
+  <text x="300" y="130" class="label">TypeScript</text>
+  <rect x="370" y="119" width="90" height="8" rx="3" fill="#21262D"/>
+  <rect x="370" y="119" width="27" height="8" rx="3" fill="#3178C6"/>
+  <text x="465" y="129" font-family="'Courier New',monospace" font-size="10" fill="#C9D1D9">30%</text>
+
+  <!-- Java -->
+  <text x="300" y="148" class="label">Java</text>
+  <rect x="370" y="137" width="90" height="8" rx="3" fill="#21262D"/>
+  <rect x="370" y="137" width="18" height="8" rx="3" fill="#E76F00"/>
+  <text x="465" y="147" font-family="'Courier New',monospace" font-size="10" fill="#C9D1D9">20%</text>
+
+  <!-- C -->
+  <text x="300" y="166" class="label">C</text>
+  <rect x="370" y="155" width="90" height="8" rx="3" fill="#21262D"/>
+  <rect x="370" y="155" width="9" height="8" rx="3" fill="#555555"/>
+  <text x="465" y="165" font-family="'Courier New',monospace" font-size="10" fill="#C9D1D9">10%</text>
+
+  <!-- Bottom note -->
+  <text x="25" y="185" font-family="'Courier New',monospace" font-size="9" fill="#484F58">
+    Stats reflect actual GitHub activity · Updated manually
+  </text>
+</svg>
