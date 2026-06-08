@@ -1,157 +1,197 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
+<div align="center">
 
-<h1 align="center">Hey there! 👋 I'm Manthan Gupta</h1>
+<!--
+╔══════════════════════════════════════════════════════╗
+║  UPLOAD THESE 2 FILES TO YOUR PROFILE REPO ROOT:    ║
+║  Manthan-gupta-21906/Manthan-gupta-21906/            ║
+║  • header.svg                                        ║
+║  • stats.svg                                         ║
+║  Both are included in the download zip.              ║
+╚══════════════════════════════════════════════════════╝
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+MNC+Student+%7C+AI+%26+Data+Science;Computer+Vision+%7C+Python+%7C+DSA;Research+Oriented+%7C+Project+Driven+Learner;Learning+Deeply+%7C+Building+Honestly&center=true&width=700&height=45" />
-</p>
+<img src="https://raw.githubusercontent.com/Manthan-gupta-21906/Manthan-gupta-21906/main/header.svg"
+     width="100%" alt="Manthan Gupta — AI &amp; Data Science | Computer Vision | Builder"/>
 
-<p align="center">
-  <b>🚀 AI & Data Science | Computer Vision | DSA | Research-Oriented Learner 🚀</b>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manthan-gupta-8bb607377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mgupta21906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Manthan-gupta-21906">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=00B4D8&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=B.Tech+Mathematics+%26+Computing+%7C+CGPA+8.75;Computer+Vision+%7C+OpenCV+%7C+MediaPipe;AI+%26+Data+Science+%7C+DSA+Practitioner;Learn+Deeply.+Build+Honestly.+Grow+Consistently." alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manthan-gupta-21906&label=Profile+Views&color=blue&style=for-the-badge"/>
-</p>
+<br/>
 
-<hr/>
-
-## 🧠 About Me
-
-🎓 **B.Tech Mathematics and Computing (2025–2029)**  
-🏫 **Shri Mata Vaishno Devi University, Katra**  
-📈 **CGPA:** 8.75/10
-
-I am a **research-inclined cllege student** with strong interests in **Artificial Intelligence, Data Science, and Computer Vision**.
-
-I enjoy:
-- Working on **real-world problem statements**
-- Building **ML-driven systems**
-- Strengthening **core CS fundamentals**
-- Understanding systems **beyond surface-level APIs**
-
-> I believe in learning deeply, building honestly, and growing consistently.
-
----
-
-## 🛠️ Technical Skillset
-
-### 👨‍💻 Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML / CV / DS
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-  <img src="https://img.shields.io/badge/MediaPipe-00ADEF?style=flat-square"/>
-</p>
-
-
-### 🌐 Dev & Tools
-<p>
-  <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> -->
-</p>
-
----
-
-## 🚀 Key Projects
-
-### 🛠️ [SkillHub - Full-Stack Skill Sharing Platform](https://github.com/tejas-singh-0212/SkillHub)
-**Status:** 🌐 [Live Demo](https://skill-hub-gir9.vercel.app/) 
-- **The Goal:** A robust platform for users to discover, share, and manage professional skills.
-- **Tech Stack:** Next.js, Raect 18, Tailwind CSS, Firebase Auth, Firestore (NoSQL), react-leaflet, geofire-common, Nominatim API, ImgBB API
-- **Key Features:** Developed custom CRUD logic for skill management, integrated a persistent database, and handled secure user sessions.
-- **Challenge Overcome:** Transitioned from basic script logic to a multi-tier architecture, ensuring seamless communication between the frontend and backend.
-
----
-
-### 🏄 Subway Surfer — Gesture Control
-- **Input** : Webcam — real-time hand landmark detection via MediaPipe
-- **Goal** : Control Subway Surfers using hand swipe gestures — no keyboard needed
-- **Detection** : Velocity-based swipe on index fingertip position
-- **Key Feature** : Threaded camera + exponential smoothing for jitter-free control
-- **Gestures** : Swipe Right → Move | Swipe Left → Move | Swipe Up → Jump | Swipe Down → Duck
-- **Tools Used** : `opencv-python` `mediapipe` `pynput` `threading`
-
----
-
-### 🚗 Hill Climb Racing — Gesture Control
-- **Input** : Webcam — live finger count + wrist height detection via MediaPipe
-- **Goal** : Control Hill Climb Racing using open/closed hand gestures — no keyboard needed
-- **Detection** : Finger count by comparing fingertip vs knuckle y-position each frame
-- **Key Feature** : Wrist height speed zones — raise hand above 40% frame height for full throttle
-- **Gestures** : 4+ fingers open → Accelerate | 1 or 0 fingers → Brake / Reverse
-- **Tools Used** : `opencv-python` `mediapipe` `pyautogui` `collections.deque`
-
-### 🚢 Titanic Survival Analysis
-
-- **Dataset** : 891 passengers, 12 features from the real Titanic dataset
-- **Goal** : Identify key factors that influenced survival on the Titanic
-- **Data Cleaning** : Handled missing values in Age, Cabin, and Embarked columns
-- **Analysis** : Explored survival by Gender, Class, Age Group, and combined factors
-- **Key Finding** : Gender and Class were the strongest survival factors — 1st class females had ~97% survival vs ~13% for 3rd class males
-- **Visualizations** : 5 bar charts covering survival count, gender, class, age group, and combined analysis
-- **Tools Used** : `pandas` `matplotlib`
-
-### 📊 Student Marks Analyzer
-- **Multi-student input** : Collects names and subject marks for any number of students in a single session
-- **Variable subject support** : Each student can have a different number of subjects — handled gracefully
-- **NumPy-powered analytics** : Computes total, average, highest, and lowest marks per student using vectorized operations
-- **Auto grade assignment** : Assigns grades A / B / C / Fail based on average score automatically
-- **Formatted report** : Prints a clean, labeled report for every student with a clear separator
-  
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manthan-gupta-21906&show_icons=true&theme=radical" width = 48%/></td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manthan-gupta-21906&theme=radical" width = 48%/>
-  </tr>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan-gupta-21906&theme=react-dark&area=true&hide_border=true" width="98%"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manthan-gupta-8bb607377/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/manthan-gupta-8bb607377/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
-   <a href="mailto:mgupta21906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:mgupta21906@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  </a>
+  <a href="https://github.com/Manthan-gupta-21906" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Manthan-gupta-21906&amp;label=Profile+Views&amp;color=00B4D8&amp;style=flat-square"/>
+
+</div>
+
 ---
 
-<p align="center">
-  <i>“Learn deeply. Build honestly. Grow consistently.”</i>
-</p>
+## About Me
+
+```python
+Manthan = {
+    "degree"    : "B.Tech Mathematics & Computing (2025-2029)",
+    "university": "Shri Mata Vaishno Devi University, Katra",
+    "cgpa"      : 8.75,
+    "focus"     : ["AI & Data Science", "Computer Vision", "DSA"],
+    "building"  : "ML-driven systems that solve real-world problems",
+    "philosophy": "Learn deeply. Build honestly. Grow consistently."
+}
+```
+
+> I go beyond surface-level APIs — I care about **why** things work, not just **how** to use them.
+
+---
+
+## Technical Skillset
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+### AI / ML / Computer Vision
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00ADEF?style=flat-square&logo=google&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+### Web & Full-Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Tools & Dev Environment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Projects
+
+### [SkillHub — Full-Stack Skill Sharing Platform](https://github.com/Manthan-gupta-21906/SkillHub)
+> **Live:** [skill-hub-gir9.vercel.app](https://skill-hub-gir9.vercel.app/)
+
+A production-grade platform for discovering, sharing, and managing professional skills with real-time geolocation.
+
+| Area | Detail |
+|:---|:---|
+| **Stack** | Next.js, React 18, Tailwind CSS, Firebase Auth, Firestore |
+| **APIs** | Nominatim (geo), ImgBB (image hosting), react-leaflet |
+| **Highlights** | Custom CRUD system, persistent NoSQL database, secure session handling |
+| **Architecture** | Transitioned from script logic to multi-tier frontend/backend architecture |
+
+---
+
+### Gesture-Controlled Gaming (Computer Vision Series)
+
+Two projects replacing keyboard input with real-time hand gesture recognition via webcam.
+
+**[Subway Surfer — Gesture Control](https://github.com/Manthan-gupta-21906/subway-surfer-opencv)**
+
+| Property | Detail |
+|:---|:---|
+| **Input** | Webcam via MediaPipe hand landmark detection |
+| **Logic** | Velocity-based index fingertip swipe detection |
+| **Feature** | Threaded camera + exponential smoothing for jitter-free control |
+| **Gestures** | Swipe Right / Left / Up (Jump) / Down (Duck) |
+| **Stack** | `opencv-python` `mediapipe` `pynput` `threading` |
+
+**[Hill Climb Racing — Gesture Control](https://github.com/Manthan-gupta-21906/hill-climb-opencv)**
+
+| Property | Detail |
+|:---|:---|
+| **Input** | Webcam via live finger count + wrist height detection |
+| **Logic** | Fingertip vs knuckle y-position comparison per frame |
+| **Feature** | Wrist height speed zones — raise above 40% frame height for full throttle |
+| **Gestures** | 4+ fingers open = Accelerate, 1 or 0 fingers = Brake/Reverse |
+| **Stack** | `opencv-python` `mediapipe` `pyautogui` `collections.deque` |
+
+---
+
+### [Titanic Survival Analysis](https://github.com/Manthan-gupta-21906/Titanic-Survival-Analysis)
+
+EDA on 891 passengers across 12 features to identify key survival factors.
+
+- **Key Finding:** Gender + Class were strongest predictors — 1st class females ~97% survival vs ~13% for 3rd class males
+- **Pipeline:** Missing value imputation → multi-factor EDA → 5-chart visual report
+- **Stack:** `pandas` `matplotlib`
+
+---
+
+### [Python Programming Practice](https://github.com/Manthan-gupta-21906/Python-Programming)
+
+Structured Python learning repository covering core concepts, data structures, and algorithms.
+
+- DSA implementations, OOP concepts, and problem-solving exercises
+- Jupyter Notebooks with annotated explanations
+- **Stack:** `python` `jupyter`
+
+---
+
+### Student Marks Analyzer
+
+Multi-student analytics tool with variable subject support and auto grade assignment.
+
+- NumPy-powered vectorized computation (total, avg, highest, lowest per student)
+- Automatic grade assignment: A / B / C / Fail based on average
+- Handles variable subject counts per student gracefully
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<!-- STREAK — confirmed working in your screenshots -->
+<img src="https://streak-stats.demolab.com/?user=Manthan-gupta-21906&amp;theme=transparent&amp;hide_border=true&amp;background=0D1117&amp;ring=00B4D8&amp;fire=7B2FBE&amp;currStreakLabel=00B4D8&amp;sideLabels=7B2FBE&amp;sideNums=FFFFFF&amp;currStreakNum=FFFFFF&amp;dates=8B949E&amp;stroke=00B4D8" width="48%"/>
+
+<!-- SELF-HOSTED STATS — 100% reliable, no API, no rate limits -->
+<img src="https://raw.githubusercontent.com/Manthan-gupta-21906/Manthan-gupta-21906/main/stats.svg" width="48%"/>
+
+<br/>
+
+<!-- ACTIVITY GRAPH — confirmed working in your screenshots -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manthan-gupta-21906&amp;theme=react-dark&amp;area=true&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00B4D8&amp;line=7B2FBE&amp;point=00B4D8&amp;area_color=7B2FBE" width="98%"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manthan-gupta-8bb607377/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+</a>
+<a href="mailto:mgupta21906@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+</a>
+<a href="https://github.com/Manthan-gupta-21906" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*`> Learn deeply. Build honestly. Grow consistently.`*
+
+</div>
