@@ -43,7 +43,7 @@
 Manthan = {
     "degree"    : "B.Tech Mathematics & Computing (2025-2029)",
     "university": "Shri Mata Vaishno Devi University, Katra",
-    "cgpa"      : 8.75,
+    "cgpa"      : 8.81,
     "focus"     : ["AI & Data Science", "Computer Vision", "DSA"],
     "building"  : "ML-driven systems that solve real-world problems",
     "philosophy": "Learn deeply. Build honestly. Grow consistently."
